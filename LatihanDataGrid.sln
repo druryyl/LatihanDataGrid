@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33927.249
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatihanDataGrid", "LatihanDataGrid.csproj", "{C45E73CE-1986-419B-8490-113F369C4B64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C45E73CE-1986-419B-8490-113F369C4B64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C45E73CE-1986-419B-8490-113F369C4B64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C45E73CE-1986-419B-8490-113F369C4B64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C45E73CE-1986-419B-8490-113F369C4B64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5E6DF5D-368C-470D-8740-B31271186B7C}
+	EndGlobalSection
+EndGlobal
